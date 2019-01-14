@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  okuyaz-2.cpp
+c:\users\tevfik\source\repos\okuyaz-2\okuyaz-2\inireader.h(421): warning C4018: '<': signed/unsigned mismatch
+c:\users\tevfik\source\repos\okuyaz-2\okuyaz-2\iniwriter.h(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\tevfik\source\repos\okuyaz-2\okuyaz-2\iniwriter.h(120): warning C4018: '<': signed/unsigned mismatch
+  okuyaz-2.vcxproj -> C:\Users\tevfik\source\repos\okuyaz-2\Debug\okuyaz-2.exe
